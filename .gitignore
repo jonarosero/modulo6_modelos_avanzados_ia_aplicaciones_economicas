@@ -1,0 +1,7 @@
+# Resultados que generan los notebooks al ejecutarse
+notebooks/resultados_modulo6/
+resultados_modulo6/
+
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
