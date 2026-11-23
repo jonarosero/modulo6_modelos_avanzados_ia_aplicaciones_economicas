@@ -26,7 +26,7 @@ A diferencia del Módulo 5, aquí hay **un notebook por unidad**, no por día.
 | 2. Modelos bayesianos | `02_U2_Modelos_Bayesianos` | 13-11 (1 h), 16-11 y 17-11 | Bayes con 1 000 clientes, prior y posterior, tasa base, actualización secuencial, intervalos creíbles, Naive Bayes, regresión bayesiana, red bayesiana, decisión con costos | Actividad 1 (20 pts) |
 | 3. Introducción a Deep Learning | `03_U3_Introduccion_Deep_Learning` | 18-11, 19-11 y 23-11 (1 h) | Neurona a mano, propagación hacia adelante, pérdida, descenso del gradiente, retropropagación, Keras, sobreajuste, comparación con líneas base | Actividad 2 (20 pts) y Actividad 3 (20 pts) |
 | 4. Aplicaciones económicas | `04_U4_Aplicaciones_Economicas` | 23-11 (2 h) | Objetivo y línea base, anomalías y falsos positivos, segmentación, Test con incertidumbre y costos, ficha ejecutiva | — |
-| 5. Proyecto final | `05_U5_Proyecto_Final` | 24-11 (2 h) | Plantilla del proyecto: ruta de clasificación y ruta de pronóstico | Proyecto final (40 pts) |
+| 5. Proyecto final | `05_U5_Proyecto_Final` | 24-11 (2 h) | Proyecto guiado en clase, paso a paso: del modelo a la decisión (8 escenarios de costos) | Proyecto final (40 pts) |
 
 ### El caso que une el módulo
 
